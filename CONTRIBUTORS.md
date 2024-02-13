@@ -1,2 +1,2 @@
 # Contributors
-- [Sommani](sommani@github.com)
+- [Jirapard](jirapard@github.com) TurtleEiei
